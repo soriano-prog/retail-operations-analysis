@@ -1,4 +1,4 @@
-# Retail Risk & Operational Optimization Analytics
+# Retail Operations Analysis
 
 Statistical analysis of retail operations data to identify the key drivers of
 business risk, combining Excel dashboarding with IBM SPSS regression and
