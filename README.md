@@ -32,6 +32,7 @@ used to analyze patterns associated with fraudulent transactions.
 **Source:** Kaggle  
 **Dataset:** Retail Store Product Sales Dataset Analysis   
 **License:** CC0: Public Domain
+
 **Link:** [Click Here](https://www.kaggle.com/datasets/ranaghulamnabi/retail-store-product-sales-dataset-analysis)
 
 ## Tools & Methods
